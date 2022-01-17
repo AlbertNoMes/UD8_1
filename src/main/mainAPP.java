@@ -9,6 +9,7 @@ public class mainAPP {
 		Persona p2 = new Persona ("Albert Notario", 33, 'H'); 
 		Persona p3 = new Persona ("Elena", 27, "12345678E", 'M', 55., 1.60); 
 		
+		//Imprimimos el metodo tostring para ver los cambios
 		System.out.println(p1.toString());
 		System.out.println(p2.toString());
 		System.out.println(p3.toString());
