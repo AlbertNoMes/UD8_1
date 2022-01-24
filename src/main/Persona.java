@@ -1,3 +1,8 @@
+/*
+ * AUTOR: ALBERT NOTARIO MESTRES
+ * DATA: 24/01/22
+ */
+
 package main;
 
 public class Persona {
